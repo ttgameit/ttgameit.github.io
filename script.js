@@ -25,8 +25,13 @@ $(function()
 		name: "Nếu Anh Đi (Cover)",
 		url: "Musics/NeuAnhDi.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Hoàng Yến Chibi",
+		name: "Trời Giấu Trời Mang Đi (Cover)",
+		url: "Musics/TroiGiauTroiMangDi.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
-	
+
 	function shuffle(a) {
 		var j, x, i;
 		for (i = a.length - 1; i > 0; i--) {
